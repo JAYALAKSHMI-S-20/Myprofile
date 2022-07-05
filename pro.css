@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#pro,#name{
+    background-color: maroon;
+    color: ivory;
+    padding: 50px;
+    font-size: xx-large;
+    text-align: center;
+}
+.links{
+    font-size: x-large;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
+#image{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+hr{
+    width: 1000px;
+}
+#about{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+p{
+    font-size: xx-large;
+}
+#work{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+#interests{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+
